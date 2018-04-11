@@ -6,7 +6,7 @@ I creat my GitHub account and I'm following the GitHub "Hello World" guide ...
 
 What I've learned:
 
-Step 1. Create a Repository
+Step 1. Create a Repository (We can simply commit changes on the master.)
 
 Step 2. Create a Branch
 
