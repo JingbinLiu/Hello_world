@@ -17,6 +17,6 @@ Step 4. Open a Pull Request, comparing the Branch with the master
 Step 5. Merge the Pull Request, then delete the Branch
 
 
-For more infomation:
+For detailed infomation:
 
 GitHub Flow Guide https://guides.github.com/introduction/flow/
