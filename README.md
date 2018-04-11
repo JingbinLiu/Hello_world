@@ -2,7 +2,7 @@
 
 Hello!
 
-I creat my GitHub account and I'm following the GitHub "Hello World" guide ...
+I create my GitHub account and I'm following the GitHub "Hello World" guide ...
 
 What I've learned:
 
